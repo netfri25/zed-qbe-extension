@@ -1,4 +1,4 @@
-name = "QBE"
+name = "qbe"
 grammar = "qbe"
 path_suffixes = ["qbe", "ssa"]
 line_comments = ["# "]

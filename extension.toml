@@ -1,4 +1,4 @@
-id = "zed-qbe-extension"
+id = "qbe"
 name = "QBE Language Support"
 version = "0.0.1"
 schema_version = 1
@@ -7,6 +7,6 @@ description = "QBE language support extension"
 repository = "https://github.com/netfri25/zed-qbe-extension"
 languages = ["languages/qbe"]
 
-[grammers.qbe]
+[grammars.qbe]
 repository = "https://github.com/bitterbloom/tree-sitter-qbe"
 commit = "fd6e73e04e30a67b8f4445dcc9576d455355229a"
