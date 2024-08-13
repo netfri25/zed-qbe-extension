@@ -1,0 +1,4 @@
+name = "QBE"
+grammar = "qbe"
+path_suffixes = ["qbe", "ssa"]
+line_comments = ["# "]
